@@ -20,6 +20,7 @@ The objective of this project was to develop a comprehensive financial dashboard
 --
 ## DashBoard
 <img width="827" height="576" alt="Screenshot  192053" src="https://github.com/user-attachments/assets/46559975-6566-43d8-921f-5b0952328cfe" />
+<a href="https://github.com/mre38/Financial-Health-Performance-Dashboard/blob/main/finance%20dashboard.xlsx">View Dashboard<a/>
 
 
 ### How does the dashboard visualize revenue performance?  
